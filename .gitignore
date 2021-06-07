@@ -1,0 +1,4 @@
+klipper_config/attic/*
+klipper_config/printer-*cfg
+.*.swp
+*/.*.swp
